@@ -14,7 +14,6 @@ body {
     background: linear-gradient(135deg, #4AB1FF, #fe2d37);
 }
 
-/* Wrapper/Main Content */
 .wrapper {
     flex: 1;
     max-width: 405px;
@@ -206,7 +205,6 @@ body {
     }
 }
 
-/* Footer Styling */
 .footer {
     background: #111;
     color: #fff;
